@@ -1,5 +1,15 @@
 ### Привет всем! 👋
 
+<a target="_blank" href="https://t.me/ilya_tchk">
+    <img src="https://img.shields.io/badge/Telegram-1f1f1f?style=flat-square&logo=Telegram&labelColor=1f1f1f"/>
+</a>
+<a target="_blank" href="mailto:detperson@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-1f1f1f?style=flat-square&logo=Gmail&labelColor=1f1f1f"/>
+</a>
+
+<h3>В работе использую:</h3><br>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+
 <!--
 **detperson/detperson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
