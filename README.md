@@ -1,6 +1,6 @@
-### Привет всем! 👋
+# Привет всем! 👋
 
-<a target="_blank" href="https://t.me/ilya_tchk">
+<a target="_blank" href="https://t.me/ilyatkcnk">
     <img src="https://img.shields.io/badge/Telegram-1f1f1f?style=flat-square&logo=Telegram&labelColor=1f1f1f"/>
 </a>
 <a target="_blank" href="mailto:detperson@gmail.com">
