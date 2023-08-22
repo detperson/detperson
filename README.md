@@ -32,8 +32,33 @@
         <img src='https://img.shields.io/badge/Git-tool-1924B1?style=flat-square&logo=git&labelColor=black' alt='logo Git' />
         <img src='https://img.shields.io/badge/Figma-tool-1924B1?style=flat-square&logo=figma&labelColor=black' alt='logo Figma' />
     </div>
-</div>
-
+</div><br>
+<table>
+    <tr>
+        <th colspan="4">
+            Проекты
+        </th>
+    </tr>
+    <tr>
+        <td rowspan="2" width="324">
+            [Учебный проект] "Виджет с погодой"
+        </td>
+        <td rowspan="2" width="78">
+            Демо
+        </td>
+        <td rowspan="2" width="78">
+            Файлы
+        </td>
+        <td width="fit-content">
+            Описание технологий 1
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Описание проекта
+        </td>
+    </tr>
+</table>
 <!--
 **detperson/detperson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
