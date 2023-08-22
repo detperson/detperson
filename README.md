@@ -47,7 +47,10 @@
             Демо
         </td>
         <td rowspan="2" width="78">
-            Файлы
+            Смотреть <br>
+            <a target="_blank" href="https://github.com/detperson/module28_homework_weather_app">
+                Файлы
+            </a>
         </td>
         <td width="fit-content">
             Описание технологий 1
@@ -66,7 +69,9 @@
             Демо
         </td>
         <td rowspan="2" width="78">
-            Файлы
+            <a target="_blank" href="https://github.com/detperson/module20_homework-Comments-system">
+                Файлы
+            </a>
         </td>
         <td width="fit-content">
             Описание технологий 1
@@ -85,7 +90,9 @@
             Демо
         </td>
         <td rowspan="2" width="78">
-            Файлы
+            <a target="_blank" href="https://github.com/detperson/module25_homework-bookshop">
+                Файлы
+            </a>
         </td>
         <td width="fit-content">
             Описание технологий 1
@@ -104,7 +111,10 @@
             Демо
         </td>
         <td rowspan="2" width="78">
-            Файлы
+            <a target="_blank"
+                href="https://github.com/detperson/module15_homework/tree/main/15.5%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%203.%20%D0%A7%D0%B0%D1%82">
+                Файлы
+            </a>
         </td>
         <td width="fit-content">
             Описание технологий 1
@@ -123,7 +133,9 @@
             Демо
         </td>
         <td rowspan="2" width="78">
-            Файлы
+            <a target="_blank" href="https://github.com/detperson/hw-module9-design-studio/tree/master">
+                Файлы
+            </a>
         </td>
         <td width="fit-content">
             Описание технологий 1
