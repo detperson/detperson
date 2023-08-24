@@ -87,7 +87,9 @@
             [Учебный проект] "Книжный интернет-магазин"
         </td>
         <td rowspan="2" width="78">
-            Демо
+            <a target="_blank" href="https://bookstore-77fb4.web.app/">
+                Демо
+            </a>
         </td>
         <td rowspan="2" width="78">
             <a target="_blank" href="https://github.com/detperson/module25_homework-bookshop">
@@ -95,12 +97,12 @@
             </a>
         </td>
         <td width="fit-content">
-            Описание технологий 1
+            JS, Webpack
         </td>
     </tr>
     <tr>
         <td>
-            Описание проекта
+            SPA на Vanilla JS - книжный инетнет-магазин
         </td>
     </tr>
     <tr>
