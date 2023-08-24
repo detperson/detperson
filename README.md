@@ -110,7 +110,10 @@
             [Учебный проект] "Мессенджер/чат"
         </td>
         <td rowspan="2" width="70">
-            Демо
+            <a target="_blank"
+                href="https://messenger-chat-5a674.web.app/">
+                Файлы
+            </a>
         </td>
         <td rowspan="2" width="70">
             <a target="_blank"
@@ -119,12 +122,12 @@
             </a>
         </td>
         <td width="fit-content">
-            Описание технологий 1
+            JS, WebSocket
         </td>
     </tr>
     <tr>
         <td>
-            Описание проекта
+            SPA на Vanilla JS - чат с определением геопозиции
         </td>
     </tr>
     <tr>
