@@ -40,13 +40,13 @@
         </th>
     </tr>
     <tr>
-        <td rowspan="2" width="430">
+        <td rowspan="2" width="425">
             [Учебный проект] "Виджет с прогнозом погоды"
         </td>
-        <td rowspan="2" width="78">
+        <td rowspan="2" width="70">
             Демо
         </td>
-        <td rowspan="2" width="78">
+        <td rowspan="2" width="70">
             Смотреть <br>
             <a target="_blank" href="https://github.com/detperson/module28_homework_weather_app">
                 Файлы
@@ -62,13 +62,13 @@
         </td>
     </tr>
     <tr>
-        <td rowspan="2" width="430">
+        <td rowspan="2" width="425">
             [Учебный проект] "Система комментариев на JS + TS"
         </td>
-        <td rowspan="2" width="78">
+        <td rowspan="2" width="70">
             Демо
         </td>
-        <td rowspan="2" width="78">
+        <td rowspan="2" width="70">
             <a target="_blank" href="https://github.com/detperson/module20_homework-Comments-system">
                 Файлы
             </a>
@@ -83,15 +83,15 @@
         </td>
     </tr>
     <tr>
-        <td rowspan="2" width="430">
+        <td rowspan="2" width="425">
             [Учебный проект] "Книжный интернет-магазин"
         </td>
-        <td rowspan="2" width="78">
+        <td rowspan="2" width="70">
             <a target="_blank" href="https://bookstore-77fb4.web.app/">
                 Демо
             </a>
         </td>
-        <td rowspan="2" width="78">
+        <td rowspan="2" width="70">
             <a target="_blank" href="https://github.com/detperson/module25_homework-bookshop">
                 Файлы
             </a>
@@ -106,13 +106,13 @@
         </td>
     </tr>
     <tr>
-        <td rowspan="2" width="430">
+        <td rowspan="2" width="425">
             [Учебный проект] "Мессенджер/чат"
         </td>
-        <td rowspan="2" width="78">
+        <td rowspan="2" width="70">
             Демо
         </td>
-        <td rowspan="2" width="78">
+        <td rowspan="2" width="70">
             <a target="_blank"
                 href="https://github.com/detperson/module15_homework/tree/main/15.5%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%203.%20%D0%A7%D0%B0%D1%82">
                 Файлы
@@ -128,24 +128,26 @@
         </td>
     </tr>
     <tr>
-        <td rowspan="2" width="430">
+        <td rowspan="2" width="425">
             [Учебный проект] "Сайт студии дизайна"
         </td>
-        <td rowspan="2" width="78">
-            Демо
+        <td rowspan="2" width="70">
+            <a target="_blank" href="https://detperson.github.io/hw-module9-design-studio/">
+                Демо
+            </a>
         </td>
-        <td rowspan="2" width="78">
+        <td rowspan="2" width="70">
             <a target="_blank" href="https://github.com/detperson/hw-module9-design-studio/tree/master">
                 Файлы
             </a>
         </td>
         <td width="fit-content">
-            Описание технологий 1
+            HTML5, CSS3, БЭМ
         </td>
     </tr>
     <tr>
         <td>
-            Описание проекта
+            Адаптивный сайт студии дизайна в Ростове-на-Дону
         </td>
     </tr>
 </table>
