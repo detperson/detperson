@@ -112,7 +112,7 @@
         <td rowspan="2" width="70">
             <a target="_blank"
                 href="https://messenger-chat-5a674.web.app/">
-                Файлы
+                Демо
             </a>
         </td>
         <td rowspan="2" width="70">
