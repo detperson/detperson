@@ -44,7 +44,9 @@
             [Учебный проект] "Виджет с прогнозом погоды"
         </td>
         <td rowspan="2" width="70">
-            Демо
+            <a target="_blank" href="https://weather-app-3cdf0.web.app/">
+                Демо
+            </a>
         </td>
         <td rowspan="2" width="70">
             Смотреть <br>
@@ -53,12 +55,12 @@
             </a>
         </td>
         <td width="fit-content">
-            Описание технологий 1
+            React
         </td>
     </tr>
     <tr>
         <td>
-            Описание проекта
+            SPA на React - виджет с прогнозом погоды
         </td>
     </tr>
     <tr>
