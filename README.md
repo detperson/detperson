@@ -30,6 +30,7 @@
         <img src='https://img.shields.io/badge/ESlint-tool-1924B1?style=flat-square&logo=eslint&labelColor=black' alt='logo ESlint' />
         <img src='https://img.shields.io/badge/Webpack-tool-1924B1?style=flat-square&logo=webpack&labelColor=black' alt='logo Webpack' />
         <img src='https://img.shields.io/badge/Git-tool-1924B1?style=flat-square&logo=git&labelColor=black' alt='logo Git' />
+        <img src='https://img.shields.io/badge/Firebase-tool-1924B1?style=flat-square&logo=firebase&labelColor=black' alt='logo Firebase' />
         <img src='https://img.shields.io/badge/Figma-tool-1924B1?style=flat-square&logo=figma&labelColor=black' alt='logo Figma' />
     </div>
 </div><br>
