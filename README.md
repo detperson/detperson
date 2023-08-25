@@ -69,7 +69,9 @@
             [Учебный проект] "Система комментариев на JS + TS"
         </td>
         <td rowspan="2" width="70">
-            Демо
+            <a target="_blank" href="https://comment-system-7404a.web.app/">
+                Демо
+            </a>
         </td>
         <td rowspan="2" width="70">
             <a target="_blank" href="https://github.com/detperson/module20_homework-Comments-system">
@@ -77,12 +79,12 @@
             </a>
         </td>
         <td width="fit-content">
-            Описание технологий 1
+            TypeScript, JavaScript, Webpack
         </td>
     </tr>
     <tr>
         <td>
-            Описание проекта
+            SPA на TS - система комментирования для сайта
         </td>
     </tr>
     <tr>
