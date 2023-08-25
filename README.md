@@ -55,7 +55,7 @@
             </a>
         </td>
         <td width="fit-content">
-            React
+            React, JS
         </td>
     </tr>
     <tr>
