@@ -50,7 +50,6 @@
             </a>
         </td>
         <td rowspan="2" width="70">
-            Смотреть <br>
             <a target="_blank" href="https://github.com/detperson/module28_homework_weather_app">
                 Файлы
             </a>
