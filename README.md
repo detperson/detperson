@@ -41,7 +41,7 @@
         </th>
     </tr>
     <tr>
-        <td rowspan="2" width="425">
+        <td rowspan="2" width="375">
             [Учебный проект] "Виджет с прогнозом погоды"
         </td>
         <td rowspan="2" width="70">
@@ -65,7 +65,7 @@
         </td>
     </tr>
     <tr>
-        <td rowspan="2" width="425">
+        <td rowspan="2" width="375">
             [Учебный проект] "Система комментариев на JS + TS"
         </td>
         <td rowspan="2" width="70">
@@ -88,7 +88,7 @@
         </td>
     </tr>
     <tr>
-        <td rowspan="2" width="425">
+        <td rowspan="2" width="375">
             [Учебный проект] "Книжный интернет-магазин"
         </td>
         <td rowspan="2" width="70">
@@ -111,7 +111,7 @@
         </td>
     </tr>
     <tr>
-        <td rowspan="2" width="425">
+        <td rowspan="2" width="375">
             [Учебный проект] "Мессенджер/чат"
         </td>
         <td rowspan="2" width="70">
@@ -136,7 +136,7 @@
         </td>
     </tr>
     <tr>
-        <td rowspan="2" width="425">
+        <td rowspan="2" width="375">
             [Учебный проект] "Сайт студии дизайна"
         </td>
         <td rowspan="2" width="70">
