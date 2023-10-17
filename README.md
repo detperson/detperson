@@ -42,6 +42,30 @@
     </tr>
     <tr>
         <td rowspan="2" width="375">
+            [Учебный проект] "Канбан-доска"
+        </td>
+        <td rowspan="2" width="70">
+            <a target="_blank" href="https://kanban-5caaa.web.app/">
+                Демо
+            </a>
+        </td>
+        <td rowspan="2" width="70">
+            Файлы (скоро)
+<!--             <a target="_blank" href="">
+                Файлы
+            </a> -->
+        </td>
+        <td width="fit-content">
+            ReactJS, React Router Dom
+        </td>
+    </tr>
+    <tr>
+        <td>
+            SPA на React - канбан доска c роутингом
+        </td>
+    </tr>
+    <tr>
+        <td rowspan="2" width="375">
             [Учебный проект] "Виджет с прогнозом погоды"
         </td>
         <td rowspan="2" width="70">
