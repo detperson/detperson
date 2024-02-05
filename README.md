@@ -42,6 +42,29 @@
     </tr>
     <tr>
         <td rowspan="2" width="375">
+            [Pet project]🐱 "NFT cripto see"
+        </td>
+        <td rowspan="2" width="70">
+            <a target="_blank" href="https://nft-pet-project.web.app/">
+                Демо
+            </a>
+        </td>
+        <td rowspan="2" width="70">
+            <a target="_blank" href="https://github.com/detperson/nft-site">
+                Файлы
+            </a>
+        </td>
+        <td width="fit-content">
+            React, JS, Vite
+        </td>
+    </tr>
+    <tr>
+        <td>
+            SPA на React - сайт для просмотра NFT коллекций
+        </td>
+    </tr>
+    <tr>
+        <td rowspan="2" width="375">
             [Учебный проект] "Канбан-доска"
         </td>
         <td rowspan="2" width="70">
