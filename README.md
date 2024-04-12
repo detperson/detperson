@@ -65,7 +65,7 @@
     </tr>
     <tr>
         <td rowspan="2" width="375">
-            [Учебный проект] "Канбан-доска"
+            "Канбан-доска"
         </td>
         <td rowspan="2" width="70">
             <a target="_blank" href="https://kanban-5caaa.web.app/">
@@ -89,7 +89,7 @@
     </tr>
     <tr>
         <td rowspan="2" width="375">
-            [Учебный проект] "Виджет с прогнозом погоды"
+            "Виджет с прогнозом погоды"
         </td>
         <td rowspan="2" width="70">
             <a target="_blank" href="https://weather-app-3cdf0.web.app/">
@@ -112,7 +112,7 @@
     </tr>
     <tr>
         <td rowspan="2" width="375">
-            [Учебный проект] "Система комментариев на JS + TS"
+            "Система комментариев на JS + TS"
         </td>
         <td rowspan="2" width="70">
             <a target="_blank" href="https://comment-system-7404a.web.app/">
@@ -135,7 +135,7 @@
     </tr>
     <tr>
         <td rowspan="2" width="375">
-            [Учебный проект] "Книжный интернет-магазин"
+            "Книжный интернет-магазин"
         </td>
         <td rowspan="2" width="70">
             <a target="_blank" href="https://bookstore-77fb4.web.app/">
@@ -158,7 +158,7 @@
     </tr>
     <tr>
         <td rowspan="2" width="375">
-            [Учебный проект] "Мессенджер/чат"
+            "Мессенджер/чат"
         </td>
         <td rowspan="2" width="70">
             <a target="_blank"
@@ -183,7 +183,7 @@
     </tr>
     <tr>
         <td rowspan="2" width="375">
-            [Учебный проект] "Сайт студии дизайна"
+            "Сайт студии дизайна"
         </td>
         <td rowspan="2" width="70">
             <a target="_blank" href="https://detperson.github.io/hw-module9-design-studio/">
