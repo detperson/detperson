@@ -42,7 +42,30 @@
     </tr>
     <tr>
         <td rowspan="2" width="375">
-            [Pet project]🐱 "NFT cripto see"
+            [Pet project] Crypto Portfolio"
+        </td>
+        <td rowspan="2" width="70">
+            <a target="_blank" href="https://crypto-portfolio-woad.vercel.app/">
+                Демо
+            </a>
+        </td>
+        <td rowspan="2" width="70">
+            <a target="_blank" href="https://github.com/detperson/crypto-portfolio">
+                Файлы
+            </a>
+        </td>
+        <td width="fit-content">
+            React, JS, Vite, Antd UI, Context Api, REST Api, Chart.js
+        </td>
+    </tr>
+    <tr>
+        <td>
+            SPA для наблюдения и управляй крипто активами
+        </td>
+    </tr>
+    <tr>
+        <td rowspan="2" width="375">
+            [Pet project]🐱 "NFT crypto see"
         </td>
         <td rowspan="2" width="70">
             <a target="_blank" href="https://nft-pet-project.web.app/">
