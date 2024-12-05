@@ -41,8 +41,8 @@
         </th>
     </tr>
     <tr>
-        <td rowspan="2" width="375">
-            [Pet project] Crypto Portfolio"
+        <td rowspan="2" width="350">
+            [Pet project] "Crypto Portfolio"
         </td>
         <td rowspan="2" width="70">
             <a target="_blank" href="https://crypto-portfolio-woad.vercel.app/">
@@ -55,16 +55,16 @@
             </a>
         </td>
         <td width="fit-content">
-            React, JS, Vite, Antd UI, Context Api, REST Api, Chart.js
+            React, JS, Vite, Antd UI, Context Api, REST, Chart.js
         </td>
     </tr>
     <tr>
         <td>
-            SPA для наблюдения и управляй крипто активами
+            SPA для наблюдения и управления крипто активами
         </td>
     </tr>
     <tr>
-        <td rowspan="2" width="375">
+        <td rowspan="2" width="350">
             [Pet project]🐱 "NFT crypto see"
         </td>
         <td rowspan="2" width="70">
@@ -87,7 +87,7 @@
         </td>
     </tr>
     <tr>
-        <td rowspan="2" width="375">
+        <td rowspan="2" width="350">
             "Канбан-доска"
         </td>
         <td rowspan="2" width="70">
@@ -111,7 +111,7 @@
         </td>
     </tr>
     <tr>
-        <td rowspan="2" width="375">
+        <td rowspan="2" width="350">
             "Виджет с прогнозом погоды"
         </td>
         <td rowspan="2" width="70">
@@ -134,7 +134,7 @@
         </td>
     </tr>
     <tr>
-        <td rowspan="2" width="375">
+        <td rowspan="2" width="350">
             "Система комментариев на JS + TS"
         </td>
         <td rowspan="2" width="70">
@@ -157,7 +157,7 @@
         </td>
     </tr>
     <tr>
-        <td rowspan="2" width="375">
+        <td rowspan="2" width="350">
             "Книжный интернет-магазин"
         </td>
         <td rowspan="2" width="70">
@@ -180,7 +180,7 @@
         </td>
     </tr>
     <tr>
-        <td rowspan="2" width="375">
+        <td rowspan="2" width="350">
             "Мессенджер/чат"
         </td>
         <td rowspan="2" width="70">
@@ -205,7 +205,7 @@
         </td>
     </tr>
     <tr>
-        <td rowspan="2" width="375">
+        <td rowspan="2" width="350">
             "Сайт студии дизайна"
         </td>
         <td rowspan="2" width="70">
