@@ -1,6 +1,6 @@
 # Привет всем! 👋
 
-<a target="_blank" href="https://t.me/ilyatkcnk">
+<a target="_blank" href="https://t.me/">
     <img src="https://img.shields.io/badge/Telegram-1f1f1f?style=flat-square&logo=Telegram&labelColor=1f1f1f" alt="logo Telegram"/>
 </a>
 <a target="_blank" href="mailto:detperson@gmail.com">
@@ -8,7 +8,7 @@
 </a>
 <br>
 <br>
-  Меня зовут Илья, и я занимаюсь Frontend разработкой😉<br>
+  Занимаюсь Frontend разработкой😉<br>
 
   Свободное время посвящаю путешествиям, саморазвитию, горам и сноуборду<br>
 
